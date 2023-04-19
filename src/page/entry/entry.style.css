@@ -1,0 +1,13 @@
+.entry-page{
+    height:100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.form-container{
+    padding: 1rem 2rem;
+    margin-bottom: 2rem;
+    background-color: #e9ecef;
+    border-radius: .3rem;
+    box-shadow: 0 0 15px -5px black;
+}
