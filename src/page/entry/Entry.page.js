@@ -44,16 +44,12 @@ const Entry = () => {
 
         //to call api to submit the form
 
-        console.log(email)
-        
+        console.log(email)    
     }
-
     const formSwitcher = (formType) =>{
         setFormLoad(formType)
 
     }
-    
-
   return (
     <div className='entry-page bg-info'>
         <div className='form-container m-3'>
