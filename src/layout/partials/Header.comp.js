@@ -1,9 +1,7 @@
 import React from 'react'
 import {Navbar,Nav} from 'react-bootstrap'
 import logo from '../../assets/img/logo.png'
-import {Link} from 'react-router-dom';
-import { useHistory } from 'react-router-dom';
-
+import {Link ,useHistory} from 'react-router-dom';
 
 const Header = () => {
     const history = useHistory();
